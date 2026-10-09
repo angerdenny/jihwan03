@@ -30,7 +30,8 @@ Python으로 패킷을 캡처하고 국가 및 소속 회사(ASN)를 분석한 �
 - `--allow-countries JP,US`: 허용 국가를 지정하면 그 밖의 국가는 "확인필요"로 표시합니다. (선택 사항)
 - `--keep-raw`: 분석 후에도 원본 캡처 파일(`robot_traffic.csv`)을 남깁니다. (선택 사항)
 
-- cd "파일 경로" ->python traffic.monitor.py capture --hours 0.05 혹은 python traffic.monitor.py capture --robot-ip 로봇IP --hours 0.05 입력합니다.
+- cd "파일 경로" ->python traffic.monitor.py capture --hours 0.05 혹은 python traffic.monitor.py capture --robot-ip 로봇IP --hours 0.05
+  입력합니다.
 
 3. Windows에서는 [Npcap](https://npcap.com)도 설치해야 합니다.  명령어 pip install scapy rich requests 
 4. 관리자 권한 터미널에서 캡처와 분석을 실행합니다.
