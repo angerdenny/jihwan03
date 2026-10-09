@@ -20,7 +20,7 @@ Python으로 패킷을 캡처하고 국가 및 소속 회사(ASN)를 분석한 �
 | `robot_traffic_analyzed_danger.csv` | 위험 통신 분석 결과 (대시보드 입력용) |
 | `robot_traffic_dashboard_final.html` | 결과를 지도와 표로 보여주는 대시보드 |
 
-## 사용 방
+## 사용 방법
 
 1. 필요한 패키지를 설치합니다.
 
