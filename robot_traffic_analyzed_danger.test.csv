@@ -1,0 +1,13 @@
+순번,도착지_IP,국가코드,국가,도시,위도,경도,ISP,패킷수,포트,판정
+1,203.0.113.10,JP,Japan,Tokyo,35.6762,139.6503,NTT DoCoMo,1450,443,✅ 안전
+2,203.0.113.20,JP,Japan,Osaka,34.6937,135.5023,Softbank,890,80,✅ 안전
+3,203.0.113.30,US,USA,Los Angeles,34.0522,-118.2437,AWS,340,53,✅ 안전
+4,203.0.113.40,US,USA,New York,40.7128,-74.0060,Google Cloud,280,443,✅ 안전
+5,203.0.113.50,SG,Singapore,Singapore,1.3521,103.8198,Singtel,120,80,✅ 안전
+6,203.0.113.60,CN,China,Shanghai,31.2304,121.4737,China Telecom,2150,443,❌ 위험
+7,203.0.113.70,DE,Germany,Frankfurt,50.1109,8.6821,Deutsche Telekom,380,443,✅ 안전
+8,203.0.113.80,CN,China,Beijing,39.9042,116.4074,China Unicom,1890,443,❌ 위험
+9,203.0.113.90,FR,France,Paris,48.8566,2.3522,Orange,210,443,✅ 안전
+10,203.0.113.100,GB,United Kingdom,London,51.5074,-0.1278,BT,290,80,✅ 안전
+11,203.0.113.110,JP,Japan,Nagoya,35.1815,136.9066,KDDI,560,53,✅ 안전
+12,203.0.113.120,CN,China,Shenzhen,22.5431,114.0579,China Mobile,1560,443,❌ 위험

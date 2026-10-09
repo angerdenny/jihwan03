@@ -1,0 +1,58 @@
+﻿순번,도착지_IP,도메인,국가코드,국가,도시,위도,경도,ASN,패킷수,데이터(bytes),포트,판정
+1,185.199.111.215,,US,United States,San Francisco,37.7823,-122.391,"AS54113 Fastly, Inc.",750,103824,443,✅ 안전
+2,20.200.245.245,,KR,South Korea,Seoul,37.5665,126.978,AS8075 Microsoft Corporation,317,467908,443,✅ 안전
+3,20.200.245.247,,KR,South Korea,Seoul,37.5665,126.978,AS8075 Microsoft Corporation,294,88871,443,✅ 안전
+4,160.79.104.10,,US,United States,San Francisco,37.7901,-122.401,"AS399358 Anthropic, PBC",258,234494,443,✅ 안전
+5,142.251.152.119,,US,United States,New Haven,41.3186,-72.9302,AS15169 Google LLC,237,59803,443,✅ 안전
+6,140.82.113.21,,US,United States,San Francisco,37.7823,-122.391,"AS36459 GitHub, Inc.",150,520143,443,✅ 안전
+7,3.92.129.183,,US,United States,Ashburn,39.04372,-77.48749,"AS14618 Amazon.com, Inc.",144,27388,443,✅ 안전
+8,52.21.130.202,,US,United States,Ashburn,39.04372,-77.48749,"AS14618 Amazon.com, Inc.",128,33597,443,✅ 안전
+9,142.251.118.94,,US,United States,New Haven,41.3186,-72.9302,AS15169 Google LLC,114,25109,443,✅ 안전
+10,210.220.163.82,,KR,South Korea,Seoul,37.5561,126.975,AS9318 SK Broadband Co Ltd,99,7960,53,✅ 안전
+11,140.82.113.26,,US,United States,San Francisco,37.7823,-122.391,"AS36459 GitHub, Inc.",73,26557,443,✅ 안전
+12,34.225.159.174,,US,United States,Ashburn,39.04372,-77.48749,"AS14618 Amazon.com, Inc.",52,14908,443,✅ 안전
+13,104.18.18.125,,CA,Canada,Toronto,43.6532,-79.3832,"AS13335 Cloudflare, Inc.",40,29443,443,✅ 안전
+14,172.217.118.4,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,37,13995,443,✅ 안전
+15,211.183.210.21,,KR,South Korea,Seongnam-si,37.3921,127.109,AS152199 Kakao Corp,36,9825,443,✅ 안전
+16,172.217.209.113,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,35,16023,443,✅ 안전
+17,172.217.115.4,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,30,10582,443,✅ 안전
+18,121.53.223.45,,KR,South Korea,Jeju-si,33.455,126.571,AS18160 Kakao Corp,27,2320,443,✅ 안전
+19,121.53.223.43,,KR,South Korea,Jeju-si,33.455,126.571,AS18160 Kakao Corp,26,2266,443,✅ 안전
+20,142.251.119.95,,US,United States,New Haven,41.3186,-72.9302,AS15169 Google LLC,26,15567,443,✅ 안전
+21,172.217.209.94,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,25,16816,443,✅ 안전
+22,211.242.13.59,,KR,South Korea,Seongnam-si,37.3921,127.109,AS152199 Kakao Corp,24,6489,443,✅ 안전
+23,172.217.213.100,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,24,14344,443,✅ 안전
+24,172.217.119.4,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,23,9838,443,✅ 안전
+25,34.54.84.110,,US,United States,Kansas City,39.0997,-94.5785,AS396982 Google LLC,20,3481,443,✅ 안전
+26,172.217.211.101,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,20,7346,443,✅ 안전
+27,140.82.114.21,,US,United States,San Francisco,37.7823,-122.391,"AS36459 GitHub, Inc.",20,4029,443,✅ 안전
+28,172.217.211.132,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,19,11072,443,✅ 안전
+29,185.199.108.133,,US,United States,San Francisco,37.7823,-122.391,"AS54113 Fastly, Inc.",18,3421,443,✅ 안전
+30,142.251.119.91,,US,United States,New Haven,41.3186,-72.9302,AS15169 Google LLC,16,9002,443,✅ 안전
+31,121.53.91.71,,KR,South Korea,Sinjeong-dong,37.5123,126.851,AS18160 Kakao Corp,14,1567,995,✅ 안전
+32,142.251.118.154,,US,United States,New Haven,41.3186,-72.9302,AS15169 Google LLC,13,5178,443,✅ 안전
+33,39.112.5.101,,KR,South Korea,Suseong-gu,35.8366,128.6217,AS9318 SK Broadband Co Ltd,12,3200,443,✅ 안전
+34,172.217.211.95,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,12,9300,443,✅ 안전
+35,172.217.209.100,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,12,5091,443,✅ 안전
+36,13.107.5.93,,US,United States,Newark,40.7357,-74.1724,AS8068 Microsoft Corporation,11,2061,443,✅ 안전
+37,172.217.209.97,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,11,5183,443,✅ 안전
+38,172.217.211.157,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,10,5315,443,✅ 안전
+39,39.112.116.42,,KR,South Korea,Dalseo-gu,35.8267,128.54,AS9318 SK Broadband Co Ltd,10,2704,443,✅ 안전
+40,121.53.93.36,,KR,South Korea,Sinjeong-dong,37.5123,126.851,AS18160 Kakao Corp,9,1333,443,✅ 안전
+41,121.53.92.16,,KR,South Korea,Sinjeong-dong,37.5123,126.851,AS18160 Kakao Corp,9,1265,443,✅ 안전
+42,39.112.5.228,,KR,South Korea,Suseong-gu,35.8366,128.6217,AS9318 SK Broadband Co Ltd,9,668,80,✅ 안전
+43,4.150.223.115,,US,United States,Des Moines,41.5908,-93.6208,AS8075 Microsoft Corporation,9,2153,443,✅ 안전
+44,219.250.36.130,,KR,South Korea,Seongbuk-gu,37.6034,127.0065,AS9318 SK Broadband Co Ltd,8,638,53,✅ 안전
+45,142.251.118.95,,US,United States,New Haven,41.3186,-72.9302,AS15169 Google LLC,8,4354,443,✅ 안전
+46,142.251.119.94,,US,United States,New Haven,41.3186,-72.9302,AS15169 Google LLC,7,4267,443,✅ 안전
+47,121.53.90.97,,KR,South Korea,Sinjeong-dong,37.5123,126.851,AS18160 Kakao Corp,4,617,443,✅ 안전
+48,40.104.69.114,,KR,South Korea,Seoul,37.5658,126.978,AS8075 Microsoft Corporation,4,220,443,✅ 안전
+49,40.104.69.50,,KR,South Korea,Seoul,37.5658,126.978,AS8075 Microsoft Corporation,4,220,443,✅ 안전
+50,172.217.221.188,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,4,220,5228,✅ 안전
+51,172.217.117.4,,US,United States,Mountain View,37.4225,-122.085,AS15169 Google LLC,3,186,443,✅ 안전
+52,3.168.178.95,,KR,South Korea,Ansan-si,37.2852,126.8251,"AS16509 Amazon.com, Inc.",2,108,443,✅ 안전
+53,52.231.114.183,,KR,South Korea,Seoul,37.5665,126.978,AS8075 Microsoft Corporation,2,180,123,✅ 안전
+54,23.32.4.65,,KR,South Korea,Seoul,37.5658,126.978,AS20940 Akamai International B.V.,2,108,443,✅ 안전
+55,4.213.25.240,,IN,India,Pune,18.5144,73.864235,AS8075 Microsoft Corporation,2,207,443,✅ 안전
+56,3.38.1.11,,KR,South Korea,Incheon,37.45646,126.70515,"AS16509 Amazon.com, Inc.",1,54,443,✅ 안전
+57,103.239.243.77,,KR,South Korea,Gwangmyeong,37.4864,126.892,AS38676 flexnetworks,1,55,15100,✅ 안전
